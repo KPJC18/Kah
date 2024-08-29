@@ -1,0 +1,35 @@
+body{
+    color:aqua;
+    backgroud:blue;
+}
+header{ 
+    border-bottom: solid 2px violet;
+    padding: 0px;
+    font-size; 32px;
+
+}
+section {   
+     padding: bottm 80px;
+     padding-top: 80px;
+     backgroud:blue;
+     dispay: flex;
+     justify-content: center;
+  }
+  .chamada-texo {  
+  margin-right:5%;
+  }
+  h1 {   
+       font-size: 20px;
+  }
+
+
+
+  <h2>Filmes</h2>
+  <img src = https://www.youtube.com/watch?v=cNbxe1mzdLM
+  <img src = https://www.youtube.com/watch?v=1gj5AOFiLlY
+  <img src = https://www.youtube.com/watch?v=5Okz07S3w0Q
+  <img src = https://www.youtube.com/watch?v=aKSYnEt08jU
+  <img src = https://www.youtube.com/watch?v=QOF7ZVxymt8
+
+
+
